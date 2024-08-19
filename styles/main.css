@@ -1,0 +1,138 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+#kanishkar-k {
+    font-size: 2.8rem;
+    font-weight: 100;
+    line-height: 100%;
+    padding-bottom: 0%;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(3) > div > div > p{
+    color: #202931;
+    font-size: 1.47rem;
+    font-weight: 100;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 1%;
+}
+
+h3 {
+    color: #ff6d1f;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 1rem;
+    padding-bottom: 1%;
+    font-weight: 600;
+}
+
+h1{
+    padding: 0%;
+    margin: 0%;
+}
+
+.st-emotion-cache-1cqkz7l {
+    width: max-content
+}
+
+/*Hero Section*/
+
+[level="1"]{
+    height: 25px
+
+}
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(25) > div > div > div > h1{
+    height: 0px
+}
+img, svg {
+    vertical-align: sub;
+}
+
+a{
+    text-decoration: none;
+    color: #0095ff;
+}
+
+.st-emotion-cache-uzeiqp a{
+    color: #0095ff;
+}
+
+.st-emotion-cache-ocqkz7{
+    flex-flow: row wrap;
+}
+
+.st-emotion-cache-1r6slb0 {
+    width: auto;
+    flex: none;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(6) > div > div > div > h1{
+    padding: 0.6em;
+    margin: 0.5rem 0rem 0.5rem;
+    background: #f1f8ff;
+}
+
+/* Skills column*/
+.st-emotion-cache-1ftupb1 {
+    width: 18em;
+    flex: none;
+}
+
+div:nth-child(-n + 4) > div > div > div > div > div > div > div:nth-child(2) > div > div > ul > li{
+    display: inline-block;
+    margin: 2px 2px 2px 0;
+    padding: 4px 5px 5px;
+    font-size: .8rem;
+    line-height: 1;
+    color: #3e6d8e;
+    background-color: #dfeaf1;
+    border: 0 solid #dfeaf1;
+    white-space: nowrap;
+}
+
+div.st-emotion-cache-434r0z.e1f1d6gn5 > div:nth-child(n) > div > div > div > div > div > div > div:nth-child(1) > div > div > p{
+    margin-bottom: 0.5rem;
+}
+div.st-emotion-cache-115gedg.e1f1d6gn3 > div > div > div > div > div > div > p > strong{
+    color: #000
+}
+div.st-emotion-cache-115gedg.e1f1d6gn3 > div > div > div > div > div > div > p{
+    margin-bottom: 0rem;
+    color: #606d76;
+}
+
+div.st-emotion-cache-1r6slb0.e1f1d6gn3 > div > div > div > div > div > div > p{
+    margin-bottom: 0rem;
+}
+
+div.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(14) > div > div > p{
+    margin-bottom: 0.5rem;
+}
+
+div.block-container.st-emotion-cache-13ln4jf.ea3mdgi5 > div > div > div > div:nth-child(15) > div > div > p{
+    margin-bottom: 0.5rem;
+}
+
+div:nth-child(n+32) > div > div > p{
+    margin-bottom: 0.5rem;
+}
+
+div:nth-child(n+32) > div > div > p > a{
+    color: #000;
+    font-weight: 600;
+}
+div:nth-child(n+32) > div > div > p > a:hover{
+    color: #0095ff;
+    font-weight: 600;
+}
+
+#MainMenu {visibility: hidden}
+footer {visibility: hidden}
+header {visibility: hidden}
